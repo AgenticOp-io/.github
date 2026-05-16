@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile/avatar.png" width="400" height="400" alt="AgenticOp.io" />
+</p>
+
 # AgenticOp.io
 
 **Verification-backed modernization** for legacy stacks — scoped **one system at a time**.
