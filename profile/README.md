@@ -14,9 +14,15 @@
 
 ---
 
-## Chrysalis (flagship engine)
+## Chrysalis (three pillars)
 
-[**chrysalis**](https://github.com/AgenticOp-io/chrysalis) — capture real behavior, replay against candidates, diff honestly, chimera cutover. **PHP-first** today; early development — check **LICENSE** in repo.
+| Pillar | Repository | Role |
+|--------|------------|------|
+| **CWL** | [**chrysalis-cwl**](https://github.com/AgenticOp-io/chrysalis-cwl) | Chrysalis Web Language — matures as a language |
+| **Convert** | [**chrysalis**](https://github.com/AgenticOp-io/chrysalis) | Universal Translator — origin → WebIR/CWL → emit; oracle verify |
+| **Secure** | [**chrysalis-security**](https://github.com/AgenticOp-io/chrysalis-security) | Helix DNA firewall — allow only what certified traffic proves |
+
+Website: [**agenticop.io**](https://agenticop.io)
 
 ---
 
