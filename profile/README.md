@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="./profile/avatar.png" width="400" height="400" alt="AgenticOp.io" />
 </p>
 
@@ -7,22 +7,26 @@
 **Verification-backed modernization** for legacy stacks — scoped **one system at a time**.
 
 | | |
-|---|---|
+|--|---|
 | **Website** | [**agenticop.io**](https://agenticop.io) |
 | **Whitepaper** | [Technical overview](https://agenticop.io/whitepaper.html) |
 | **Contact** | [hello@agenticop.io](mailto:hello@agenticop.io) · [Start a Pilot](https://agenticop.io/contact.html) |
 
 ---
 
-## Chrysalis (three pillars)
+## Chrysalis (open source)
 
 | Pillar | Repository | Role |
 |--------|------------|------|
-| **CWL** | [**chrysalis-cwl**](https://github.com/AgenticOp-io/chrysalis-cwl) | Chrysalis Web Language — matures as a language |
-| **Convert** | [**chrysalis**](https://github.com/AgenticOp-io/chrysalis) | Universal Translator — origin → WebIR/CWL → emit; oracle verify |
+| **CWL** | [**chrysalis-cwl**](https://github.com/AgenticOp-io/chrysalis-cwl) | Chrysalis Web Language — DNA of the web |
+| **Convert** | [**chrysalis**](https://github.com/AgenticOp-io/chrysalis) | Universal Translator — origin → WebIR/CWL → emit |
 | **Secure** | [**chrysalis-security**](https://github.com/AgenticOp-io/chrysalis-security) | Helix DNA firewall — allow only what certified traffic proves |
 
-Website: [**agenticop.io**](https://agenticop.io)
+**Platforms:** [wptp-ir](https://github.com/AgenticOp-io/wptp-ir) · [wptp-matrix](https://github.com/AgenticOp-io/wptp-matrix) · adapters · emitters  
+
+**Siblings:** [fragility-discovery-engine](https://github.com/AgenticOp-io/fragility-discovery-engine) · [ghost-museum](https://github.com/AgenticOp-io/ghost-museum) (do not integrate)
+
+Website: [**agenticop.io**](https://agenticop.io) · Hub: [hub.agenticop.io](https://hub.agenticop.io/)
 
 ---
 
@@ -34,12 +38,6 @@ Website: [**agenticop.io**](https://agenticop.io)
 | [**Bandwidth-Test-Manager**](https://github.com/AgenticOp-io/Bandwidth-Test-Manager) | Throughput proof (Ookla + iperf3) |
 
 Public product site: [**wisptools.io**](https://wisptools.io)
-
----
-
-## Research
-
-[**fragility-discovery-engine**](https://github.com/AgenticOp-io/fragility-discovery-engine) — deterministic adversarial search over simulations (shock schedules, collapse metrics, replay + minimization).
 
 ---
 
