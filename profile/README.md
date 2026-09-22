@@ -4,7 +4,7 @@
 
 # AgenticOp.io
 
-**Verification-backed modernization** for legacy stacks — scoped **one system at a time**.
+**Chrysalis** — three open-source pillars for web-app identity: **CWL** (DNA of the web), **Convert** (Universal Translator), **Secure** (Helix DNA firewall). Propose freely; verify disposes; honest holes — never façades.
 
 | | |
 |--|---|
@@ -21,6 +21,8 @@
 | **CWL** | [**chrysalis-cwl**](https://github.com/AgenticOp-io/chrysalis-cwl) | Chrysalis Web Language — DNA of the web |
 | **Convert** | [**chrysalis**](https://github.com/AgenticOp-io/chrysalis) | Universal Translator — origin → WebIR/CWL → emit |
 | **Secure** | [**chrysalis-security**](https://github.com/AgenticOp-io/chrysalis-security) | Helix DNA firewall — allow only what certified traffic proves |
+
+**Direction (current):** CWL owns the genome (RFCs, golds, tip **1.0.48+**). Convert **hears** origin stacks (PHP is one peel, not the product) and **speaks** emit targets through CWL/WebIR. Secure learns/enforces from **traffic DNA**; any CWL bridge must match `chrysalis-cwl` — Helix does not fork the language.
 
 **Platforms:** [wptp-ir](https://github.com/AgenticOp-io/wptp-ir) · [wptp-matrix](https://github.com/AgenticOp-io/wptp-matrix) · adapters · emitters  
 
